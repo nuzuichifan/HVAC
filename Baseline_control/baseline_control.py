@@ -1,7 +1,4 @@
-'''
-Author:Shuai Ma
-Time:2021/4/1
-'''
+
 import numpy as np
 import torch
 import model
